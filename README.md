@@ -8,7 +8,7 @@
 ### Step 5 : Visualize the average annual temperature
 ### Step 6 : Summary find 'Partly Cloudy', 'Mostly Cloudy', 'Clear'
 ### Step 7 : Visualize wind speeds for selected summaries
-## Visualize the average annual temperature ![Temperature](https://github.com/User-Ehmedov-Ferid/Portfolio/blob/main/temperature.png)
+## Visualize the average annual temperature ![Temperature](https://github.com/[User-Ehmedov-Ferid]/[Portfolio]/blob/[main]/temperature.png)
 ## Visualize wind speeds for selected summaries ![Wind speed](https://github.com/User-Ehmedov-Ferid/Portfolio/blob/main/wind_speed.png)
 
 
