@@ -16,5 +16,5 @@
 ### Step 2 : Determine the age group of employees with high ratings
 ### Step 3 : Create age and gender  columns 
 ### Step 4 : Compare the ratings of female and male employees
-![Proje2](https://user-images.githubusercontent.com/87524659/153491439-10c235c2-b201-42aa-b7e5-54427c401375.PNG)
+![employees](https://user-images.githubusercontent.com/87524659/153492183-02985d5d-2acd-4cf3-8eb9-d296a1c56cbc.PNG)
 
