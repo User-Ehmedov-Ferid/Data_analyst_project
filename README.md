@@ -18,3 +18,8 @@
 ### Step 4 : Compare the ratings of female and male employees
 ![new](https://user-images.githubusercontent.com/87524659/153634228-3e046282-e4bc-4c27-afda-d5b2dcf3d1cd.PNG)
 
+# [Project 3: Global SuperStore](https://github.com/User-Ehmedov-Ferid/Portfolio/blob/main/project3.ipynb)
+### Step 1 : To determine the total sales of the first 10 countries
+### Step 2 : Select only those  return yes
+### Step 3 : To determine total profits by countries
+![proje3](https://user-images.githubusercontent.com/87524659/153774025-c37dbd03-c062-447f-9798-948c726011e4.png)
