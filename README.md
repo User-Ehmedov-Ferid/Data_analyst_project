@@ -23,3 +23,12 @@
 ### Step 2 : Select only those  return yes
 ### Step 3 : To determine total profits by countries
 ![proje3](https://user-images.githubusercontent.com/87524659/153774025-c37dbd03-c062-447f-9798-948c726011e4.png)
+
+# [Project 4: Early Detection of Diabetic](https://github.com/User-Ehmedov-Ferid/Portfolio/blob/main/Early%20detecting%20diabet.ipynb)
+###  Import all of machine learning  for classification problem
+###  Is obasity relationship to diabet status?
+###  Is gender  relationship to diabet status ?
+###  Is age relationship to diabet ?
+###  Data modeling
+###  Diabet Predict visualization
+![Early Diabetic](https://user-images.githubusercontent.com/87524659/168448427-04746d50-9e2d-4f54-8a58-55451f8a9a8f.JPG)
