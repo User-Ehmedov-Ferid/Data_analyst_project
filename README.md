@@ -30,14 +30,3 @@
 ### Step 3 : To determine total profits by countries
 ![proje3](https://user-images.githubusercontent.com/87524659/153774025-c37dbd03-c062-447f-9798-948c726011e4.png)
 
-# [Project 5: Weather History](https://github.com/User-Ehmedov-Ferid/Portfolio/blob/main/project1.ipynb)
-###  Data cleaning
-###  Change the type of Formatted Date
-###  Find values after 2010-01-01 and values above 20
-###  To avoid visualization errors, change the Date column type to datetime64
-###  Visualize the average annual temperature
-###  Summary find 'Partly Cloudy', 'Mostly Cloudy', 'Clear'
-###  Visualize wind speeds for selected summaries
-## Visualize the average annual temperature ![temperature](https://user-images.githubusercontent.com/87524659/152632910-339a7dd0-0b7b-46b9-a38c-cf4cccb1e963.png)
-## Visualize wind speeds for selected summaries ![wind_speed](https://user-images.githubusercontent.com/87524659/152632948-3c303f43-4db1-4306-86e0-b7e89987a738.png)
-
