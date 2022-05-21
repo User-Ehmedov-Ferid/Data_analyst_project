@@ -9,7 +9,7 @@
 ### Step 6 : Diabet Predict visualization
 ![Early Diabetic](https://user-images.githubusercontent.com/87524659/168448427-04746d50-9e2d-4f54-8a58-55451f8a9a8f.JPG)
 
-# [Project 2: Predict of Houses of Prices](https://github.com/User-Ehmedov-Ferid/Portfolio/blob/main/House_price.ipynb)
+# [Project 2: Predict of House Prices](https://github.com/User-Ehmedov-Ferid/Portfolio/blob/main/House_price.ipynb)
 ### Step 1 : import sklearn library for regression problem
 ### Step 2 : Remove id , date , zipcode , lat , long columns
 ### Step 3 : Data modeling
