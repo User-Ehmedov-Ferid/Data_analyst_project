@@ -13,7 +13,7 @@
 ### Step 1 : import sklearn library for regression problem
 ### Step 2 : Remove id , date , zipcode , lat , long columns
 ### Step 3 : Data modeling
-### Step 4 : Visualization predict of houses of prices
+### Step 4 : Visualization predict of prices of houses
 ![Predict_of_House_Prices](https://user-images.githubusercontent.com/87524659/169647613-22c163d9-09a5-425a-979e-c10f62a9610e.JPG)
 
 
