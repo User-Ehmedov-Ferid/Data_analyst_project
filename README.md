@@ -22,6 +22,7 @@
 
 ![Customer_visualization](https://user-images.githubusercontent.com/87524659/173523510-28fc4140-79da-4000-8e7b-31afd28c9f0c.png)
 
+
 ## Data analysis
 # [Project 4: Employees](https://github.com/User-Ehmedov-Ferid/Portfolio/blob/main/project2.ipynb)
 ### Step 1 : To identify employees with high ratings
