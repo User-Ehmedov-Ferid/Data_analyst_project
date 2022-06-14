@@ -19,19 +19,24 @@
 # [Project 3: Customer](https://github.com/User-Ehmedov-Ferid/Portfolio/blob/main/Customers.ipynb)
 ### Amazon clothes sells clothes online.Customers come into the store, have meetings with a personal stylist,then they can go home and order either on a mobile app or website for the clothes they want.
 ### The company is trying to decide whether to focus their efforts on their mobile app  or website.
-
 ![Customer_visualization](https://user-images.githubusercontent.com/87524659/173523510-28fc4140-79da-4000-8e7b-31afd28c9f0c.png)
+
+# [Project 4: Customer](https://github.com/User-Ehmedov-Ferid/Portfolio/blob/main/Gender.ipynb)
+### Company X gained too much popularity around the city people. Company  starts to produce new products and make contracts with new investors.  Increase of this popularity around people makes the company have some problems. They can not know everything easily depending on the increased  number of customers. So the company wants to use new technology. 
+### Company wants to easily predict customers gender.
+![Gender_visualization](https://user-images.githubusercontent.com/87524659/173553357-cae41f8a-94c5-47fb-af44-2efc35a2d5af.JPG)
+
 
 
 ## Data analysis
-# [Project 4: Employees](https://github.com/User-Ehmedov-Ferid/Portfolio/blob/main/project2.ipynb)
+# [Project 5: Employees](https://github.com/User-Ehmedov-Ferid/Portfolio/blob/main/project2.ipynb)
 ### Step 1 : To identify employees with high ratings
 ### Step 2 : Determine the age group of employees with high ratings
 ### Step 3 : Create age and gender  columns 
 ### Step 4 : Compare the ratings of female and male employees
 ![new](https://user-images.githubusercontent.com/87524659/153634228-3e046282-e4bc-4c27-afda-d5b2dcf3d1cd.PNG)
 
-# [Project 5: Global SuperStore](https://github.com/User-Ehmedov-Ferid/Portfolio/blob/main/project3.ipynb)
+# [Project 6: Global SuperStore](https://github.com/User-Ehmedov-Ferid/Portfolio/blob/main/project3.ipynb)
 ### Step 1 : To determine the total sales of the first 10 countries
 ### Step 2 : Select only those  return yes
 ### Step 3 : To determine total profits by countries
