@@ -1,5 +1,5 @@
 # Əhmədov Fərid
-## Data Analytics
+## Data Analyst
 # [Project 1: Early Detection of Diabetic](https://github.com/User-Ehmedov-Ferid/Portfolio/blob/main/Early%20detecting%20diabet.ipynb)
 ### Step 1 :  Import all of machine learning  for classification problem
 ### Step 2 : Is obasity relationship to diabet status?
