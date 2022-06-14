@@ -1,5 +1,5 @@
 # Əhmədov Fərid
-### Data Analytics
+## Data Analytics
 # [Project 1: Early Detection of Diabetic](https://github.com/User-Ehmedov-Ferid/Portfolio/blob/main/Early%20detecting%20diabet.ipynb)
 ### Step 1 :  Import all of machine learning  for classification problem
 ### Step 2 : Is obasity relationship to diabet status?
@@ -24,7 +24,7 @@ The company is trying to decide whether to focus their efforts on their mobile a
 or website
 ![Customer_visualization](https://user-images.githubusercontent.com/87524659/173523510-28fc4140-79da-4000-8e7b-31afd28c9f0c.png)
 
-### Data analysis
+## Data analysis
 # [Project 4: Employees](https://github.com/User-Ehmedov-Ferid/Portfolio/blob/main/project2.ipynb)
 ### Step 1 : To identify employees with high ratings
 ### Step 2 : Determine the age group of employees with high ratings
