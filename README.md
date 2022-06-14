@@ -17,7 +17,9 @@
 ![Predict_of_House_Prices](https://user-images.githubusercontent.com/87524659/169647613-22c163d9-09a5-425a-979e-c10f62a9610e.JPG)
 
 # [Project 3: Customer](https://github.com/User-Ehmedov-Ferid/Portfolio/blob/main/Customers.ipynb)
-### Amazon clothes sells clothes online. Customers come into the store, have meetings with a personal stylist, then they can go home and order either on a mobile app or website for the clothes they want. The company is trying to decide whether to focus their efforts on their mobile app  or website
+### Amazon clothes sells clothes online. Customers come into the store, have meetings with a personal stylist, 
+###then they can go home and order either on a mobile app or website for the clothes they want. 
+###The company is trying to decide whether to focus their efforts on their mobile app  or website.
 ![Customer_visualization](https://user-images.githubusercontent.com/87524659/173523510-28fc4140-79da-4000-8e7b-31afd28c9f0c.png)
 
 ## Data analysis
